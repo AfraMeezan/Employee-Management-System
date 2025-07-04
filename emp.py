@@ -100,7 +100,7 @@ def menu():
             display_summary()
         elif choice == '4':
             save_employees()
-            print("Data saved. Exiting program. ")
+            print("Data saved. Exiting program.")
             break
         else:
             print("Invalid choice! Try again.")
